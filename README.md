@@ -1,0 +1,3 @@
+# Hackerrank
+
+SOLUTIONS OF MYSQL
