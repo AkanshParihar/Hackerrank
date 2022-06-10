@@ -1,0 +1,4 @@
+# Author: Akansh Singh Parihar
+
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY;
